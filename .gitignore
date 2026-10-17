@@ -66,3 +66,6 @@ backend/data/
 
 # Contract IDs written by `make deploy-local` (local network only)
 .contract-id.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
