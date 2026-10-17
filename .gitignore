@@ -30,7 +30,6 @@ ehthumbs.db
 Thumbs.db
 
 # ─── Editor ───────────────────────────────────────────────────────────────────
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -40,7 +39,6 @@ Thumbs.db
 # ─── Misc ─────────────────────────────────────────────────────────────────────
 .worktrees/
 *.log
-.env
 dist/
 build/
 # Playwright
@@ -66,3 +64,4 @@ backend/data/
 
 # Contract IDs written by `make deploy-local` (local network only)
 .contract-id.local
+config.bat

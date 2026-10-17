@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/1498-compose-matrix",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/1498-compose-matrix": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/1498-compose-matrix",
+    "origin"
+  ]
+}
